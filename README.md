@@ -1,2 +1,2 @@
 # StonePaperScissor
-![Screenshot 2024-07-02 092720](https://github.com/Debasmita238/StonePaperScissor/assets/129653742/ee81cf94-ecb5-448a-b150-89f15080dd9d)
+![Screenshot 2024-07-02 093720](https://github.com/Debasmita238/StonePaperScissor/assets/129653742/f03f55b8-e65c-4654-8051-06a657ec381a)
